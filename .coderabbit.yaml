@@ -1,4 +1,8 @@
 # https://docs.coderabbit.ai/guides/configure-coderabbit
 reviews:
-  profile: assertive
   sequence_diagrams: false
+  profile: assertive
+  poem: false
+  tools:
+    markdownlint:
+      enabled: false
